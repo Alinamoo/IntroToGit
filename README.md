@@ -1,4 +1,7 @@
 # Intro to Git
+
+*For those of you who like videos, follow this guide with me here!* https://www.youtube.com/watch?v=18gA0PB6mBw&t=369s 
+
 Git is a popular version control system which allows for tracking file changes and is a great tool for source code management and collaboration. 
 
 # Git vs GitHub? 
